@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://media.tenor.com/xMmwPOqFFSAAAAAC/aesthetic-typing.gif))](https://1.bp.blogspot.com)
 <h1 align="center">Hi 👋, I'm JK Agullo</h1>
 <h3 align="center">A Passionate Computer Science Student from the Philippines.</h3>
 <img align="right" alt="Zenitsu" width="400" src="https://gifdb.com/images/high/zenitsu-thunderclap-and-flash-fran2b09lymmhin2.gif">
