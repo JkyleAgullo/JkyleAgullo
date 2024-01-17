@@ -1,4 +1,4 @@
-[![MasterHead] [https://i.imgur.com/ShfEK9n.png](https://media1.giphy.com/media/hQuNhHxSWYhxp9KmyS/giphy.gif?cid=ecf05e47valzq3zv3y7prf5lxih4ctifx2tb58xqa26qen8m&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
 <h1 align="center">Hi 👋, I'm JK Agullo</h1>
 <h3 align="center">A Computer Science Student.</h3>
 <img align="right" alt="Zenitsu" width="400" src="https://gifdb.com/images/high/zenitsu-thunderclap-and-flash-fran2b09lymmhin2.gif">
