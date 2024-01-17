@@ -1,4 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)<h1 align="center">Hi 👋, I'm Kyle</h1>
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)](https://media3.giphy.com/media/mj4ruS6mHkdKEdmwc1/giphy.gif?cid=ecf05e47valzq3zv3y7prf5lxih4ctifx2tb58xqa26qen8m&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+<h1 align="center">Hi 👋, I'm Kyle</h1>
 <h3 align="center">Computer Science Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jkyleagullo&label=Profile%20views&color=0e75b6&style=flat" alt="jkyleagullo" /> </p>
